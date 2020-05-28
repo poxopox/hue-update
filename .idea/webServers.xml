@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="b1e9890c-19f3-4d14-8bb1-b2ca421a13b4" name="onion">
+        <fileTransfer rootFolder="/development" accessType="SFTP" host="192.168.254.30" port="22" sshConfigId="12193beb-660e-4e23-8dd0-25a9b90a35f3" sshConfig="root@192.168.254.30:22 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
